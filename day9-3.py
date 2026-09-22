@@ -1,0 +1,5 @@
+f = open("notes.txt", "r")
+content = f.read()
+f.close()
+print(content)
+print(f.read())

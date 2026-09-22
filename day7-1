@@ -1,0 +1,9 @@
+while True:
+    print("hello")
+    break
+
+while True:
+    answer = input("enter q to quit: ")
+    if answer == "q":
+        break
+    print("you entered:", answer)

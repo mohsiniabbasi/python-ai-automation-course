@@ -1,0 +1,8 @@
+INFO:root:Job started: Leeds station
+ERROR:root:Payment failed
+INFO:root:Job started: Leeds station
+ERROR:root:Payment failed
+INFO:root:Job started: Leeds station
+ERROR:root:Payment failed
+2026-09-17 11:53:27,481:INFO:Job started: Leeds station
+2026-09-17 11:53:27,482:ERROR:Payment failed

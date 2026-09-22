@@ -1,0 +1,5 @@
+name = input("what is your name") .title()
+age = input("what is your age? ")
+print(f"Hi, {name}")
+print(f"your age is {age} years old")
+print(f"next year you will be {int(age) + 1} years old ")
